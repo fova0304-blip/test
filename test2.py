@@ -10,3 +10,6 @@ def hello():
 
 def bye():
     print("bye")
+
+def umm():
+    print("umm")
