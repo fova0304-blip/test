@@ -7,3 +7,6 @@ print("안녕하세요")
 
 def hello():
     print("hello")
+
+def bye():
+    print("bye")
